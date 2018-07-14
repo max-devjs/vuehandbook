@@ -71,7 +71,7 @@ Whether you chose to use the Vue CLI locally, or through CodeSandbox, let's insp
 
 ### The files structure
 
-Beside `package.json`, which contains the configuration, these are the files contained in the initial project structure:
+Beside `package.json`, which contains the configuration, these are files contained in the initial project structure:
 
 - `index.html`
 - `src/App.vue`
@@ -105,7 +105,7 @@ In the body it includes just one simple element: `<div id="app"></div>`. This is
 
 #### `src/main.js`
 
-This is the main JavaScript files that drive our app.
+This is the main JavaScript file that drive our app.
 
 We first import the Vue library and the App component from `App.vue`.
 
